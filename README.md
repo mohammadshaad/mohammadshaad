@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohammad Shaad</h1>
-<h3 align="center">A Passionate Young Programmer 🤓</h3>
+
+<h3 align="center" style="color:yellow;" >About Me</h3>  
+ <div align="center">
+ 👨🏻‍🎓 Fresher at Vellore Institute of Technology, Chennai
+<br>🤖 Web & UI/UX Enthusiast
+<br>⚒️ Graphic Designer & Video Editor by Passion 💜
+<br>👨‍💻 Learning Python, C++, HTML & CSS
+ </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadshaad&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadshaad" /> </p>
 
