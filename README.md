@@ -1,8 +1,14 @@
+<!-- README FILE CODE -->  
+
+
+<!-- WAVING HAND WITH Asslamualaikum  -->
 [![MastHead](https://github.com/mohammadshaad/mohammadshaad/blob/main/img/intro.png)](https://www.youtube.com/c/TRANQUILITY_INDIA)
 
 <h1 align="center">Asslamualaikum 😊 , I'm Mohammad Shaad</h1>
 
 
+
+<!--ABOUT ME  -->
 <h3 align="center" style="color:yellow;" >About Me</h3>  
  <div align="center">
  👨🏻‍🎓 Fresher at Vellore Institute of Technology, Chennai
@@ -13,12 +19,18 @@
 
 
 <br>
+
+<!-- PROFIELS VIEW  -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohammadshaad&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadshaad" /> </p>
 
 <br>
+
+<!-- TROPHIES -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadshaad" alt="mohammadshaad" /></a> </p>
 
 
+
+<!-- SKILLS AND CURRENT WORKING  -->
 - 🔭 I’m currently working on [Language Translator](https://github.com/mohammadshaad/Language-Translator)
 
 - 🌱 I’m currently learning **Python, C++, HTML, CSS**
@@ -35,15 +47,21 @@
 
 
 
+<!-- LANGUAGES AND TOOL BADGES -->
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 
-
+<!-- SOCAL MEDIA HANDLES -->
 
 <h3 align="center" style="color:yellow;margin-bottom: 20px;" >Lets Connect<img src="https://github.com/mohammadshaad/mohammadshaad/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
 <div align="center" >
 
+ 
+ 
+ <!-- LANGUAGES AND TOOL BADGES -->
+ 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&labelColor=white&logo=github&logoColor=black)](https://github.com/mohammadshaad)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=white&logo=twitter&logoColor=1ca0f1&link=https://twitter.com/HariketSheth)](https://twitter.com/MohammadShaadSk)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/mohammad-shaad-shaikh)
@@ -56,6 +74,9 @@
 
 </p>
 <br/>
+
+<!-- CODING PROFILES -->
+
 <h3 align="center" style="color:yellow;margin-bottom: 20px;" >Coding Profiles</h3>  
 <div align="center" >
  
@@ -65,7 +86,8 @@
  
 <div align="center">
  
-### GitHub Contributions
+<!-- GitHub Contributions -->
+ 
 ![Mohammad Shaad GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=mohammadshaad)
 <br>
  
