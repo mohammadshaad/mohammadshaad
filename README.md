@@ -12,8 +12,8 @@
 <h3 align="center" style="color:yellow;" >About Me</h3>  
  <div align="center">
  👨🏻‍🎓 Fresher at Vellore Institute of Technology, Chennai
-<br>🤖 Web & UI/UX Enthusiast
-<br>⚒️ UI/UX Designer & Video Editor by Passion 💜
+<br>🤖 WebDev & UI/UX Enthusiast
+<br>⚒️ Graphic Designer & Video Editor by Passion 💜
 <br>👨‍💻 Interested in Open-Source Contribution 😄
  </div>
 
