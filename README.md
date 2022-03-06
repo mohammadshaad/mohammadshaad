@@ -13,8 +13,8 @@
  <div align="center">
  👨🏻‍🎓 Fresher at Vellore Institute of Technology, Chennai
 <br>🤖 Web & UI/UX Enthusiast
-<br>⚒️ Graphic Designer & Video Editor by Passion 💜
-<br>👨‍💻 Learning Python, C++, HTML & CSS
+<br>⚒️ UI/UX Designer & Video Editor by Passion 💜
+<br>👨‍💻 Interested in Open-Source Contribution 😄
  </div>
 
 
@@ -33,7 +33,7 @@
 <!-- SKILLS AND CURRENT WORKING  -->
 - 🔭 I’m currently working on [Language Translator](https://github.com/mohammadshaad/Language-Translator)
 
-- 🌱 I’m currently learning **Python, C++, HTML, CSS**
+- 🌱 I’m currently learning **Front-end Web Development and C Language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohammadshaad](https://github.com/mohammadshaad)
 
