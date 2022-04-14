@@ -39,7 +39,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **mohammadshaadshaikh3@gmail.com**
+- 📫 How to reach me **callshaad@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mohammad-shaad-shaikh/](https://www.linkedin.com/in/mohammad-shaad-shaikh/)
 
