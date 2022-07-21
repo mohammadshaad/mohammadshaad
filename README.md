@@ -2,7 +2,7 @@
 
 
 <!-- WAVING HAND WITH Asslamualaikum  -->
-[![MastHead](https://github.com/mohammadshaad/mohammadshaad/blob/main/img/Intro.gif)](https://www.youtube.com/c/TRANQUILITY_INDIA)
+[![MastHead](https://github.com/mohammadshaad/mohammadshaad/blob/main/img/intro.png)](https://www.youtube.com/c/TRANQUILITY_INDIA)
 
 <h1 align="center">Hello 😊  I'm Mohammad Shaad</h1>
 
