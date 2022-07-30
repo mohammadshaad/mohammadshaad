@@ -10,7 +10,7 @@
 
 <h2 align="center" style="color:yellow;margin-bottom: 20px;" >About Me</h2> 
  <div align="left">
- 👨🏻‍🎓 Sophomore at Vellore Institute of Technology, Chennai
+ 👨🏻‍🎓 Computer Science Undergrad at Vellore Institute of Technology, Chennai, India
 <br>🤖 WebDev AppDev & UI/UX Enthusiast
 <br>⚒️ Graphic Designer & Video Editor by Passion 💜
 <br>👨‍💻 Interested in Open-Source Contribution 😄
