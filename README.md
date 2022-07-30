@@ -21,16 +21,7 @@
 <h2 align="center" style="color:yellow;margin-bottom: 20px;" >Experience</h2> 
 
 ### 
-- [Major League Hacking Fellow](https://fellowship.mlh.io) - Contributed to Open Source projects and organisations [Github](https://github.com/github) and [Solana](https://github.com/holaplex).
-- [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) - Beta Level Microsoft Learn Student Ambassador. Conducted workshops & webinars on DevOps, Open Source, Cloud, Web Dev, etc.
-- [Top Contributor at GWoC](https://github.com/girlscript/winter-of-contributing) - Contributed to several domains such as Backend, Frontend and Databases. Was declared as one of the top contributors in Girlscript Winter of Contributing (GWoC) Database Domain.
-- [Programme Representative](https://chennai.vit.ac.in) - Selected as one of the Programme Representatives for Computer Science and Engineering (CSE) branch at Vellore Institute of Technology, Chennai
-- [CPS Summer Research Intern](https://chennai.vit.ac.in/research/research-centre/centre-for-cyber-physical-systems/#1653536184722-d5b3a6c1-a312) - Selected for Research Internship at Centre for Cyber Physical systems in the domain of Deep learning, Convolutional Neural Networks. 
-- [Top 20 Contributors at GSSoC](https://gssoc.girlscript.tech/leaderboard) - Contributed to several open source projects during Girlscript Summer of Code (GSSoC) and bagged a position in Top 20 Contributors. 
-- [Core Committee Member - Intel Student Ambassadors](https://github.com/Intel-Student-Ambassadors) - Appointed as a Core Committee Member for facilitating events, technical writing and several other opportunities alongside Intel Student Ambassador.
-- [Student Researcher](https://www.linkedin.com/feed/update/urn:li:activity:6915136940224720896/) - Working as a student researcher, writing and publishing research papers with IEEE and Machine Intelligence Research Labs (MIR Labs) in the domain of Deep Learning, AI, ML, Cloud Computing, etc.
-- [National Finalist -  Schneider](https://gogreen.se.com/en) - Team Passionis declared as one of teams shortlisted for India Finals for Schneider GoGreen Challenge conducted by Schneider Electric in collaboration with AVEVA.
-- [UNICEF Youth Worker](https://bit.ly/2Tt7VLX) - Contributed as a #YoungWarrior spreading awareness about COVID-19 and helping people combat the difficult phase by providing several services and medical helps.
+- [Top 150 Contributors at GSSoC](https://gssoc.girlscript.tech/leaderboard) - Contributed to several open source projects during Girlscript Summer of Code (GSSoC) and bagged a position in Top 150 Contributors.
   
  <br>
  
