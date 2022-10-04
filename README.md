@@ -3,7 +3,7 @@
 
 [![MastHead](https://github.com/mohammadshaad/mohammadshaad/blob/main/img/newbanner.png)](https://www.youtube.com/c/TRANQUILITY_INDIA)
 
-<h1 align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">  I'm Mohammad Shaad</h1>
+<h1 align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px"> I'm  <strong>Mohammad Shaad </strong></h1>
 
 
 
