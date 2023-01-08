@@ -10,9 +10,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop websites and mobile applications.\
+💡 &nbsp;I like to explore new technologies and develop websites.\
 🎓 &nbsp;I'm currently studying Computer Science Engineering at Vellore Institute of Technology, Chennai.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+🌱 &nbsp;I'm on track for learning more about Next.js, Web3, Google Cloud.\
 ✍️ &nbsp;In my free time, I pursue UI UX Designing, Graphic Design and Blog Writing as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at callshaad@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://mohammadshaad.github.io/#resume) for more details about me. I'm open to feedback and suggestions!
