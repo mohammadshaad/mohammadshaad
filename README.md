@@ -3,19 +3,22 @@
 
 <!-- [![MastHead](https://github.com/mohammadshaad/mohammadshaad/blob/main/img/newbanner.png)](https://www.youtube.com/c/TRANQUILITY_INDIA) -->
 
-<h1 align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px"> I'm  <strong>Mohammad Shaad </strong></h1>
+<!-- SPINNING EARTH GIF -->
+<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px"> -->
+
+<h1 align="center">Hello World! I'm  <strong>Mohammad Shaad </strong></h1>
 
 [![@mohammadshaad's Holopin board](https://holopin.me/mohammadshaad)](https://holopin.io/@mohammadshaad)
 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I like to explore new technologies and develop websites.\
-I'm currently studying Computer Science Engineering at Vellore Institute of Technology, Chennai.\
-I'm on track for learning more about Next.js, Web3, Google Cloud.\
-In my free time, I pursue UI UX Designing, Graphic Design and Blog Writing as hobbies/side hustles.\
-You can shoot me an email at callshaad@gmail.com! I'll try to respond as soon as I can.\
-Please have a look at my [Résumé](https://mohammadshaad.github.io/#resume) for more details about me. I'm open to feedback and suggestions!
+- I like to explore new technologies and develop websites.\
+- I'm currently studying Computer Science Engineering at Vellore Institute of Technology, Chennai.\
+- I'm on track for learning more about Next.js, Web3, Google Cloud.\
+- In my free time, I pursue UI UX Designing, Graphic Design and Blog Writing as hobbies/side hustles.\
+- You can shoot me an email at callshaad@gmail.com! I'll try to respond as soon as I can.\
+- Please have a look at my [Résumé](https://mohammadshaad.github.io/#resume) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
