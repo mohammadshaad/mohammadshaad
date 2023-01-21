@@ -26,6 +26,7 @@
 ### 💫 &nbsp;Achievements
 - Microsoft Learn Student Ambassador
 - Google Cloud Career Practitioner '22
+- All 4 PRs got merged in Hacktoberfest'22 and received the goodies and swags 
 - Top 1% Contributor in the GSSoC'22
 
 
