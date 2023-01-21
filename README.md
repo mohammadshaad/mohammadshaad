@@ -14,11 +14,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- I like to explore new technologies and develop websites.\
-- I'm currently studying Computer Science Engineering at Vellore Institute of Technology, Chennai.\
-- I'm on track for learning more about Next.js, Web3, Google Cloud.\
-- In my free time, I pursue UI UX Designing, Graphic Design and Blog Writing as hobbies/side hustles.\
-- You can shoot me an email at callshaad@gmail.com! I'll try to respond as soon as I can.\
+- I like to explore new technologies and develop websites.
+- I'm currently studying Computer Science Engineering at Vellore Institute of Technology, Chennai.
+- I'm on track for learning more about Next.js, Web3, Google Cloud.
+- In my free time, I pursue UI UX Designing, Graphic Design and Blog Writing as hobbies/side hustles.
+- You can shoot me an email at callshaad@gmail.com! I'll try to respond as soon as I can.
 - Please have a look at my [Résumé](https://mohammadshaad.github.io/#resume) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -26,7 +26,7 @@
 ### 💫 &nbsp;Achievements
 - Microsoft Learn Student Ambassador
 - Google Cloud Career Practitioner '22
-- All 4 PRs got merged in Hacktoberfest'22 and received the goodies and swags 
+- All 4 PRs got accepted in Hacktoberfest'22
 - Top 1% Contributor in the GSSoC'22
 
 
