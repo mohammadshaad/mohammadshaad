@@ -6,7 +6,8 @@
 <!-- SPINNING EARTH GIF -->
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px"> -->
 
-<h1 align="center">Hello World! I'm  <strong>Mohammad Shaad </strong></h1>
+<p align="center">Hello World</p>
+<h1 align="center">I'm  <strong>Mohammad Shaad </strong></h1>
 
 [![@mohammadshaad's Holopin board](https://holopin.me/mohammadshaad)](https://holopin.io/@mohammadshaad)
 
