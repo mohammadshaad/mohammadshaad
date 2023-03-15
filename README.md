@@ -40,42 +40,23 @@
 - Top 1% Contributor in the GSSoC'22
 
 
+## Skills:
 
-### 🛠 &nbsp;Tech Stack
+  <a href="https://skillicons.dev" align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=react,vue,figma,js,vite,nodejs,vscode,py,git,github,githubactions,css,tailwind,express,firebase,mongodb,supabase,netlify,vercel,flask,graphql" />
+  </a>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Flask](https://img.shields.io/badge/-flask-05122A?style=flat&logo=Flask)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<a href="https://github.com/mohammadshaad">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohammadshaad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohammadshaad&layout=compact&langs_count=8&theme=algolia"/>
-  <p>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadshaad&theme=algolia" alt="mohammadshaad" />
-  </p>
-</a>
-</p>
+## Contribution Graph
+[![Shaad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohammadshaad&theme=tokyo-night)](https://github.com/mohammadshaad/github-readme-activity-graph)
+
+## GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadshaad&show_icons=true&theme=react&count_private=true" alt="mohammadshaad" /></p>
+
+## Top Languages
+<p><img align="center" src="https://github-readme-stats.max-programming.vercel.app/api/top-langs/?username=mohammadshaad&layout=compact&hide=html&theme=react" alt="mohammadshaad" /></p> 
+
 
 
 ### 🤝🏻 &nbsp;Connect with Me
