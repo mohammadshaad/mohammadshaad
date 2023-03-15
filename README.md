@@ -55,8 +55,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadshaad&show_icons=true&theme=react&count_private=true" alt="mohammadshaad" /></p>
 
 ## Top Languages
-<p><img align="center" src="https://github-readme-stats.max-programming.vercel.app/api/top-langs/?username=mohammadshaad&layout=compact&hide=html&theme=react" alt="mohammadshaad" /></p> 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadshaad&hide_progress=false&theme=tokyonight)](https://github.com/mohammadshaad/github-readme-stats)
 
 
 ### 🤝🏻 &nbsp;Connect with Me
