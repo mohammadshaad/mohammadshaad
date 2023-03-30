@@ -33,7 +33,7 @@
 
 - Microsoft Learn Student Ambassador
 
-- Google Cloud Career Practitioner '22
+- Google Cloud Career Practitioner'22
 
 - All 4 PRs got accepted in Hacktoberfest'22
 
