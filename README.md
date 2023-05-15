@@ -35,7 +35,7 @@
 
 - Google Cloud Career Practitioner'22
 
-- All 4 PRs got accepted in Hacktoberfest'22
+- All PRs got reviewed and accepted in Hacktoberfest'22
 
 - Top 1% Contributor in the GSSoC'22
 
