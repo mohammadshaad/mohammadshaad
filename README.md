@@ -31,7 +31,7 @@
 
 ### 💫 &nbsp;Achievements
 
-- Microsoft Learn Student Ambassador
+- Beta Microsoft Learn Student Ambassador
 
 - Google Cloud Career Practitioner'22
 
