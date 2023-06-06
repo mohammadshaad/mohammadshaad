@@ -14,7 +14,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- I am 18 years old and like to explore new technologies.
+- I am 19 years old and like to explore new technologies.
 
 - I'm currently studying Computer Science Engineering at Vellore Institute of Technology, Chennai.
 
