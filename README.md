@@ -18,7 +18,7 @@
 
 - I'm currently studying Computer Science Engineering at Vellore Institute of Technology, Chennai
 
-- I'm on track for learning more about Next.js, Web3, Google Cloud.
+- I'm on track for learning more about Next.js, Web3, Google Cloud
 
 - In my free time, I pursue UI UX Designing, Graphic Design and Blog Writing as hobbies/side hustles.
 
