@@ -40,7 +40,7 @@
 - Top 1% Contributor in the GSSoC'22
 
 
-## Skills:
+## Skills
 
   <a href="https://skillicons.dev" align="center">
     <img align="center" src="https://skillicons.dev/icons?i=react,typescript,googlecloud,vue,next,figma,js,vite,nodejs,vscode,py,git,github,githubactions,html,css,bootstrap,wordpress,tailwind,express,firebase,mongodb,supabase,netlify,vercel,flask,graphql" />
