@@ -47,10 +47,6 @@
   </a>
 
 
-
-## Contribution Graph
-[![Shaad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohammadshaad&theme=tokyo-night)](https://github.com/mohammadshaad/github-readme-activity-graph)
-
 ## GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadshaad&show_icons=true&theme=react&count_private=true" alt="mohammadshaad" /></p>
 
