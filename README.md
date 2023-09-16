@@ -24,7 +24,7 @@
 
 - You can shoot me an email at callshaad@gmail.com! I'll try to respond as soon as I can.
 
-- Please have a look at my [Résumé]([https://mohammadshaad.github.io/#resume](https://drive.google.com/file/d/1hQQmzVukUkVQ6j8D9HUfQwVC3Czmk6uO/view?usp=sharing)) for more details about me. I'm open to feedback and suggestions!
+- Please have a look at my [Résumé]([https://drive.google.com/file/d/1hQQmzVukUkVQ6j8D9HUfQwVC3Czmk6uO/view?usp=sharing]) for more details about me. I'm open to feedback and suggestions!
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
