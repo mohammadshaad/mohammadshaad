@@ -12,7 +12,6 @@
 
 [![@mohammadshaad's Holopin board](https://holopin.me/mohammadshaad)](https://holopin.io/@mohammadshaad)
 
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 - I am 19 years old and like to explore new technologies
