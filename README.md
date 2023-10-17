@@ -43,7 +43,7 @@
 ## Skills
 
   <a href="https://skillicons.dev" align="center">
-    <img align="center" src="https://skillicons.dev/icons?i=react,next,vue,vite,django,fastapi,golang,typescript,js,docker,jenkins,aws,googlecloud,nodejs,express,git,github,githubactions,html,css,bootstrap,wordpress,tailwind,postgresql,firebase,mongodb,supabase,vercel,graphql,c,cpp,java,py,r,solidity,figma,vscode" />
+    <img align="center" src="https://skillicons.dev/icons?i=react,next,vue,vite,django,fastapi,golang,typescript,js,docker,jenkins,aws,googlecloud,nodejs,express,git,github,githubactions,html,css,bootstrap,wordpress,tailwind,postgresql,firebase,mongodb,supabase,vercel,graphql,c,cpp,java,py,r,figma,vscode" />
   </a>
 
 
