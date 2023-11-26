@@ -10,7 +10,7 @@
 <p align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="14px"> I'm</p>
 <h1 align="center"><strong>Mohammad Shaad</strong></h1>
 
-[![@mohammadshaad's Holopin board](https://holopin.me/mohammadshaad)](https://holopin.io/@mohammadshaad)
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
