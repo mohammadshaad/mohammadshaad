@@ -10,7 +10,8 @@
 <p align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="14px"> I'm</p>
 <h1 align="center"><strong>Mohammad Shaad</strong></h1>
 
-[](https://github.com/mohammadshaad/mohammadshaad/blob/main/img/20230603_103643.png)
+[![MastHead](https://github.com/mohammadshaad/mohammadshaad/blob/c95194c3878e5b869156d94d948c4019530afa57/img/20230603_103643.png)](https://www.youtube.com/c/TRANQUILITY_INDIA)
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
