@@ -10,7 +10,7 @@
 <p align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="14px"> I'm</p>
 <h1 align="center"><strong>Mohammad Shaad</strong></h1>
 
-[](https://github.com/mohammadshaad/mohammadshaad/blob/main/img/20230603_103643 1.png)
+[](https://github.com/mohammadshaad/mohammadshaad/blob/main/img/20230603_103643.png)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
