@@ -48,16 +48,6 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 💫 &nbsp;Achievements
-
-- Beta Microsoft Learn Student Ambassador
-
-- Google Cloud Career Practitioner'22
-
-- All PRs got reviewed and accepted in Hacktoberfest'22
-
-- Top 1% Contributor in the GSSoC'22
-
 
 ## Skills
 
