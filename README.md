@@ -16,7 +16,7 @@
 
 - Full Stack Developer at [Gizmolab](https://www.gizmolab.io/)
 - Beta Microsoft Learn Student Ambassador
-- Gave several 30-40 minutes talks on various topics such as DevOps & IoT, AI & UX Design etc.
+- Gave several 30-40 minutes talks as well as 3 hours workshop on various topics such as DevOps & IoT, AI & UX Design & Golang etc.
 - Technical Lead at [Enactus](https://www.enactusvitc.com/) & [FYI](https://www.instagram.com/fyivitc/)
 - Previously - Product Design Intern at [Sarvmatre International Pvt. Ltd.](https://www.sarvmatre.com/)
 - Participate in hackathons avidly - [Unstop](https://unstop.com/u/mohammadshaad), [Devfolio](https://devfolio.co/@mohammadshaad)
