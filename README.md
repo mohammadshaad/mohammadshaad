@@ -9,7 +9,6 @@
 <p align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="14px"> I'm</p>
 <h1 align="center"><strong>Mohammad Shaad</strong></h1>
 
-[![MastHead](https://github.com/mohammadshaad/mohammadshaad/blob/c95194c3878e5b869156d94d948c4019530afa57/img/20230603_103643.png)](https://www.youtube.com/c/TRANQUILITY_INDIA)
 
 # Things I Do 🧑‍💻
 
@@ -26,6 +25,9 @@
 - I share my designs on [Bēhance](https://www.behance.net/mohammadshaad) and [Dribbble](https://dribbble.com/mohammadshaad)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammadshaad&label=VIEWS)
+
+
+[![MastHead](https://github.com/mohammadshaad/mohammadshaad/blob/c95194c3878e5b869156d94d948c4019530afa57/img/20230603_103643.png)](https://www.youtube.com/c/TRANQUILITY_INDIA)
 
 
 
