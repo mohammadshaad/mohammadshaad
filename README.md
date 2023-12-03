@@ -8,11 +8,10 @@
  -->
 <p align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="14px"> I'm</p>
 <h1 align="center"><strong>Mohammad Shaad</strong></h1>
+<h4 align="center">Design. Development. DevOps.</h4>
 
 
 # Things I Do 🧑‍💻
-
-### Design. Development. DevOps.
 ### Also `npx mohammadshaad` for a quick intro on your Terminal!
 
 - Full Stack Developer at [Gizmolab]([https://www.digitalocean.com](https://www.gizmolab.io/))
