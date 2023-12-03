@@ -12,7 +12,7 @@
 
 
 # Things I Do 🧑‍💻
-### Also `npx mohammadshaad` for a quick intro on your Terminal!
+### `npx mohammadshaad` for a quick intro on your Terminal!
 
 - Full Stack Developer at [Gizmolab]([https://www.digitalocean.com](https://www.gizmolab.io/))
 - Beta Microsoft Learn Student Ambassador
