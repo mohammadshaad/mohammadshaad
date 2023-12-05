@@ -26,7 +26,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammadshaad&label=VIEWS)
 
 
-[![MastHead](https://github.com/mohammadshaad/mohammadshaad/blob/c95194c3878e5b869156d94d948c4019530afa57/img/20230603_103643.png)](https://www.youtube.com/c/TRANQUILITY_INDIA)
+[![MastHead](https://github.com/mohammadshaad/mohammadshaad/blob/main/img/WhatsApp%20Image%202023-11-03%20at%2010.27.33%20PM.jpeg?raw=true)](https://www.youtube.com/c/TRANQUILITY_INDIA)
 
 
 
