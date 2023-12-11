@@ -9,7 +9,6 @@
 <h1 align="center"><strong>Mohammad Shaad</strong></h1>
 <h4 align="center">Design. Development. DevOps.</h4>
 
-
 # Things I Do 🧑‍💻
 ### `npx mohammadshaad` for a quick intro on your Terminal!
 
