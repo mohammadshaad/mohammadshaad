@@ -14,7 +14,7 @@
 ### `npx mohammadshaad` for a quick intro on your Terminal!
 
 - Full Stack Developer at [Gizmolab](https://www.gizmolab.io/)
-- Gave several 30-40 minutes talks as well as 3 hours workshop on various topics such as DevOps & IoT, AI & UX Design & Golang etc.
+- Delivered several 30-40 minutes talks as well as 3 hours workshop on various topics such as DevOps & IoT, AI & UX Design & Golang etc.
 - Beta Microsoft Learn Student Ambassador
 - Technical Lead at [Enactus](https://www.enactusvitc.com/) & [FYI](https://www.instagram.com/fyivitc/)
 - Previously - Product Design Intern at [Sarvmatre International Pvt. Ltd.](https://www.sarvmatre.com/)
