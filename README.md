@@ -1,6 +1,6 @@
 <!-- README FILE CODE -->  
 
-[![MastHead](https://github.com/mohammadshaad/mohammadshaad/blob/aae0c2a4d5968e83a2947b8c05c9bed9c473bc09/img/LINKEDIN%20COVER.png?raw=true)](https://www.youtube.com/c/TRANQUILITY_INDIA)
+[![MastHead](https://github.com/mohammadshaad/mohammadshaad/blob/a62a27b764cdfcceac96a9e74ca150d339868af0/img/LINKEDIN%20COVER.png)](https://www.youtube.com/c/TRANQUILITY_INDIA)
 
 
 <!-- SPINNING EARTH GIF -->
