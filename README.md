@@ -49,10 +49,6 @@
   <a href="https://skillicons.dev" align="center">
     <img align="center" src="https://skillicons.dev/icons?i=react,next,vue,vite,django,fastapi,golang,solidity,typescript,js,docker,aws,googlecloud,nodejs,express,git,github,githubactions,html,css,bootstrap,wordpress,tailwind,postgresql,firebase,mongodb,supabase,vercel,graphql,c,cpp,java,py,r,figma,vscode" />
   </a>
-  
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadshaad&hide_progress=false&theme=tokyonight)](https://github.com/mohammadshaad/github-readme-stats)
-
 
 ### 🤝🏻 &nbsp;Connect with Me
 
