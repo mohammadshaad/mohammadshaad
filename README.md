@@ -13,7 +13,6 @@
 # Things I Do 🧑‍💻
 ### `npx mohammadshaad` for a quick intro on your Terminal!
 
-
 - Full Stack Developer at [Gizmolab](https://www.gizmolab.io/)
 - Delivered several 30-40 minutes talks as well as 3 hours workshop on various topics such as DevOps & IoT, AI & UX Design & Golang etc.
 - Beta Microsoft Learn Student Ambassador
