@@ -2,7 +2,6 @@
 
 [![MastHead](https://github.com/mohammadshaad/mohammadshaad/blob/a62a27b764cdfcceac96a9e74ca150d339868af0/img/LINKEDIN%20COVER.png)](https://www.youtube.com/c/TRANQUILITY_INDIA)
 
-
 <!-- SPINNING EARTH GIF -->
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
  -->
