@@ -45,9 +45,84 @@
 
 ## Skills
 
+<!--  
   <a href="https://skillicons.dev" align="center">
     <img align="center" src="https://skillicons.dev/icons?i=react,next,vue,vite,django,fastapi,golang,solidity,typescript,js,docker,aws,googlecloud,nodejs,express,git,github,githubactions,html,css,bootstrap,wordpress,tailwind,postgresql,firebase,mongodb,supabase,vercel,graphql,c,cpp,java,py,r,figma,vscode" />
   </a>
+  -->
+
+  <table>
+  <tr>
+    <td>Programming:</td>
+    <td>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=go" alt="go" width="40" height="40"/> </a>&nbsp;
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=js"  width="40" height="40"/> </a>&nbsp; 
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=ts"  width="40" height="40"/> </a>&nbsp;
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java" alt="java" width="40" height="40"/> </a>&nbsp;
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="c" width="40" height="40"/> </a>&nbsp;
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="python" width="40" height="40"/> </a>&nbsp;
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c" alt="c" width="40" height="40"/> </a>&nbsp;
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ruby" alt="ruby" width="40" height="40"/> </a>&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td>Frontend:</td>
+    <td> <img src="https://go-skill-icons.vercel.app/api/icons?i=html"  width="40" height="40"/> </a>&nbsp;
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=css"  width="40" height="40"/> </a>&nbsp; 
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=react"  width="40" height="40"/> </a>&nbsp; 
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=next"  width="40" height="40"/> </a>&nbsp;
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=vue" alt="c" width="40" height="40"/> </a>&nbsp;
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=vite"  width="40" height="40"/> </a>&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td>UI Libraries & Frameworks:</td>
+    <td> 
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap"  width="40" height="40"/> </a>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind"  width="40" height="40"/> </a>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=picocss"  width="40" height="40"/> </a>&nbsp;
+      <img src="https://github.com/user-attachments/assets/37608361-49c7-4e82-8b61-fc8076c9bb67" width="40" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td>Backend:</td>
+    <td>
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=kafka"  width="40" height="40"/> </a>&nbsp;
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=aws"  width="40" height="40"/> </a>&nbsp;
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=googlecloud"  width="40" height="40"/> </a>&nbsp;
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=docker"  width="40" height="40"/> </a>&nbsp;
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes"  width="40" height="40"/> </a>&nbsp;
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs"  width="40" height="40"/> </a>&nbsp;
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=expressjs"  width="40" height="40"/> </a>&nbsp;
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi"  width="40" height="40"/> </a>&nbsp;
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=flask"  width="40" height="40"/> </a>&nbsp;
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=django"  width="40" height="40"/> </a>&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td>Database:</td>
+    <td> 
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql"  width="40" height="40"/> </a>&nbsp;
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb"  width="40" height="40"/> </a>&nbsp; 
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql"  width="40" height="40"/></a>&nbsp;
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite"  width="40" height="40"/> </a>&nbsp;
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=redis"  width="40" height="40"/> </a>&nbsp;
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase"  width="40" height="40"/> </a>&nbsp;
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase"  width="40" height="40"/> </a>&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td>Tools:</td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git"  width="40" height="40"/> </a>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=github"  width="40" height="40"/> </a>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=bash"  width="40" height="40"/> </a>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=linux"  width="40" height="40"/> </a>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=postman"  width="40" height="40"/> </a>&nbsp;
+    </td>
+  </tr>
+</table>
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
